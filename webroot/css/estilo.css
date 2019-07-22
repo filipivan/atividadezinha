@@ -1,0 +1,66 @@
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+    margin-top: 0px;
+
+}
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+}
+
+.titulo-tabela{
+
+}
+
+.red-thead{
+    background: #F14444;
+    color: #fff;
+}
+
+.cor-titulo{
+    color: #F14444;
+}
+
+.adicionar{
+
+    margin-bottom: 50px;
+}
+
+.titulo{
+
+    margin-bottom: 0px;
+}
+
+.btn-margem{
+    margin: 1% 2%;
+}
+
+.texto-thead{
+}
+
+.borda{
+    border: medium;
+}
+
+.tamanho-logo{
+    max-width: 130px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+}
+
+.p{
+    text-align:justify;
+    text-indent:15px;
+    width:50px;
+}
+
+.img-error{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%); /* Adicionar os prefixos dos navegadores */
+}
